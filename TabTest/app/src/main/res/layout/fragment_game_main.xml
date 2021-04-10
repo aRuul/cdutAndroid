@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg3">
+
+    <ProgressBar
+        android:id="@+id/Async_progressBar"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:visibility="invisible"></ProgressBar>
+
+    <TextView
+        android:id="@+id/Async_txt1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""></TextView>
+
+
+    <TextView
+        android:id="@+id/gameLevel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="简单模式"
+        android:textSize="22sp"></TextView>
+
+    <TextView
+        android:id="@+id/gameScore"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="0分"
+        android:textSize="25sp"></TextView>
+
+    <GridView
+        android:id="@+id/grid_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="9" />
+
+
+</LinearLayout>

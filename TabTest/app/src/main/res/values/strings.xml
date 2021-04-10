@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">连连看demo</string>
+    <string name="tab_text_1">游戏</string>
+    <string name="tab_text_2">说明</string>
+    <string name="tab_text_3">设置</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gameInfor">游戏规则：\n玩家可以将2个相同的动物连接起来，\n连接线不多于3根直线，\n就可以成功将动物消除。\n管你看没看懂，点就完事了！！</string>
+    <string name="gameConfig">游戏参数设置界面</string>
+</resources>
