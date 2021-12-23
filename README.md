@@ -6,11 +6,31 @@ cdut 安卓的课设📱
 实现的功能
 
 - 连连看基本的消除
+- 游戏困难等级（简单、普通、困难）
 - 背景音乐
+- 点击音效、消除音效
 - 偏好设置
 - sqlite数据库存储排行榜
 - 游戏倒计时
 - 隐藏彩蛋【彩蛋自己找吧】
+
+---
+
+#### 操作指南
+主要分为三个界面【规则说明界面】【游戏界面】【偏好界面】
+
+【游戏界面】如下图所示
+
+<img src="https://gitee.com/aruul/a-ru-img/raw/master/img/20211223141743.png" alt="image-20211223142538286" style="zoom:80%;" />
+
+点击右上角的三个点唤出菜单，并可以切换游戏难度模式，游戏结束后自动跳转到排行榜界面
+
+<img src="https://gitee.com/aruul/a-ru-img/raw/master/img/20211223142538.png" alt="image-20211223142538286" style="zoom:80%;" />
+
+
+点击界面的   简单/普通/困难模式可以进行重排
+
+<img src="https://gitee.com/aruul/a-ru-img/raw/master/img/20211223142838.png" alt="image-20211223142837956" style="zoom:80%;" />
 
 ---
 
