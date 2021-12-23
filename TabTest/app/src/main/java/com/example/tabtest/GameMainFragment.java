@@ -287,7 +287,7 @@ public class GameMainFragment extends Fragment {
         return true;
     }
 
-    String testshow="\\u674e\\u76f8\\u5b7a\\u6d4b\\u8bd5";
+    String testshow="\\u6d4b\\u8bd5";
     int eggs=0;
     public static String unicodeToString(String unicode) {
         StringBuffer sb = new StringBuffer();
