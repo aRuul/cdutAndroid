@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity{
         return mediaPlayer;
     }
 
-    String testshow="\\u674e\\u76f8\\u5b7a\\u6d4b\\u8bd5";
+    String testshow="\\u6d4b\\u8bd5";
 
     public static String unicodeToString(String unicode) {
         StringBuffer sb = new StringBuffer();
